@@ -1,0 +1,41 @@
+.my-header {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    background-color: orange;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.tagline{
+    padding-top: 10px;
+}
+
+.my-main-container{
+    padding-top:20px;
+}
+
+.my-story-type{
+    text-align: center;
+}
+
+.score{
+    margin:0px;
+    margin-top:5px;
+}
+
+.my-footer{
+    background-color: lightgray;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: orange;
+    text-align:center;
+    height: 30px;
+    width: 100%;
+}
+
+.my-footer-text{
+    padding-top: 5px;
+}
